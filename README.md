@@ -1,4 +1,5 @@
 - Hi, I’m Spencer
+- Check out my portfolio at: https://www.sdy329.com/
 - 5th Year Software Engineering Student
 - Global Business Solutions Service Technician Intern
 - Former NUKE Robotics President 
