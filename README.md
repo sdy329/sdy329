@@ -1,4 +1,5 @@
 - Hi, I’m Spencer
-- 4th Year Software Engineering Student
-- NUKE Robotics President 
-- 9 Year VEX Competitor
+- 5th Year Software Engineering Student
+- Global Business Solutions Service Technician Intern
+- Former NUKE Robotics President 
+- Former 9 Year VEX Competitor
