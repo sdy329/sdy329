@@ -15,4 +15,4 @@ I can often be found refereeing VEX Robotics tournaments or talking and moderati
 
 - Former NUKE Robotics President
 - Former 9 Year VEX Competitor
-- Soccer and Borussia Dortmund fan
+- Soccer and Borussia Dortmund Fan
