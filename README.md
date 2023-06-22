@@ -13,7 +13,6 @@ I can often be found refereeing VEX Robotics tournaments or talking and moderati
 
 ## Things about me
 
-- 5th Year Software Engineering Student
-- Global Business Solutions Service Technician Intern
 - Former NUKE Robotics President
 - Former 9 Year VEX Competitor
+- Soccer and Borussia Dortmund fan
