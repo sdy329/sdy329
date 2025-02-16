@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am <a href="https://www.sdy329.com/" target="_blank">Spencer Yates</a>, a recent Software Engineering graduate from Northern Kentucky University. My last position was serving as a Service Desk Technician at <a href="https://www.gbs-inc.com/" target="_blank">Global Business Solutions</a>.
+I am <a href="https://www.sdy329.com/" target="_blank">Spencer Yates</a>, a recent Software Engineering graduate from Northern Kentucky University. I am currently a Front-End Software Engineer at <a href="https://www.53.com/" target="_blank">Fifth Third Bank</a>.
 
 I can often be found refereeing VEX Robotics tournaments or talking and moderating in the main VRC <a href="https://discord.gg/vrc" target="_blank">Discord</a>.
 
@@ -15,4 +15,5 @@ I can often be found refereeing VEX Robotics tournaments or talking and moderati
 
 - Former NUKE Robotics President
 - Former 9 Year VEX Competitor
+- 10 Year VEX Robotics Head Referee
 - Soccer and Borussia Dortmund Fan
