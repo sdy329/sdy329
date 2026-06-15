@@ -2,7 +2,7 @@
 
 <p align="center">
     Visitor Counter<br>
-    <img src="https://profile-counter.glitch.me/sdy329/count.svg" />
+    <img src="https://profile-counter.deno.dev/sdy329/count.svg" />
 </p>
 
 ## About Me
